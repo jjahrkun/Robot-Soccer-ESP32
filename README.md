@@ -1,16 +1,17 @@
 # Robot Soccer ESP32-C3
 
-Proyek robot soccer 2WD berbasis ESP32-C3 SuperMini dengan sistem kendali menggunakan smartphone melalui Bluetooth Low Energy (BLE).
+Proyek robot soccer 2WD berbasis ESP32-C3 SuperMini dengan sistem kendali menggunakan smartphone. 
 
 ## Hardware
 - ESP32-C3 SuperMini
 - MX1508 Dual Motor Driver
-- 2x N30 DC Motor
+- 2x N20 DC Motor
 - 2x 18650 Battery
 - 2WD Robot Chassis
 
 ## Features
 - Bluetooth BLE Remote Control
+- koneksi Wifi
 - RemoteXY Dual Joystick
 - Differential Drive Control
 - PWM Motor Speed Control
